@@ -74,7 +74,7 @@ Saved files used by the application:
 
 ## Project Files
 
-- `final.py` - Main Streamlit web app
+- `final(2).py` - Main Streamlit web app
 - `FraudDetection(1).ipynb` - Jupyter notebook containing preprocessing, training, and evaluation
 - `fraud_model.pkl` - Trained fraud detection model
 - `scaler.pkl` - Saved scaler
