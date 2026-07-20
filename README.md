@@ -165,11 +165,12 @@ This project demonstrates:
 ## Author
 
 **Yashica**  
-BTech Student | Machine Learning Enthusiast
+BTech Student(IGDTUW) 
+Enrollment No. 22301172025
 
 **Trishla**  
-BTech Student | Machine Learning Enthusiast
-
+BTech Student(IGDTUW)
+Enrollment No. 21201172025
 ## License
 
 This project is licensed under the terms provided in the repository license file.
